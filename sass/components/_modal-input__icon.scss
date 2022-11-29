@@ -1,0 +1,10 @@
+.modal-input__icon {
+    position: absolute;
+    top: 25%;
+    left: 52px;
+  
+    display: inline-block;
+    transition-property: fill;
+    transition-duration: 250ms;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  }

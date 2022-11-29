@@ -1,0 +1,19 @@
+.modal {
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform-origin: center;
+    transform: translate(-50%, -50%) scale(1);*/
+    position: relative;
+    transform: scale(1);
+    min-width: 528px;
+    min-height: 581px;
+    background-color: var(--white-color);
+    transition: transform var(--anim-fast);
+    border-radius: 4px;
+
+    &.modal-animation {
+      animation: scale-up-center 0.4s cubic-bezier(0.39, 0.575, 0.565, 1) both;
+    }
+
+  }

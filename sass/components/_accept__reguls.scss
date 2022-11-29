@@ -1,0 +1,24 @@
+.accept__reguls {
+    margin-top: 20px;
+    margin-left: 52px;
+    margin-right: 51px;
+
+    & accept__reguls input {
+      background: #212121;
+    }
+    
+    & label {
+      width: 400px;
+      height: 24px;
+    
+      font-style: normal;
+      font-weight: 400;
+      font-size: 14px;
+      line-height: calc(24 / 14);
+    
+      letter-spacing: 0.03em;
+    
+      color: #757575;
+    }
+
+  }
