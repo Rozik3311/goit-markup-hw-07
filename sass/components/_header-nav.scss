@@ -1,4 +1,4 @@
-.nav__list {
+.header__list {
     display: flex;
     align-items: center;
     gap: 50px;
@@ -10,7 +10,7 @@
     color: var(--primary-text-color);
   }
   
-  .nav__item {
+  .header__item {
     font-weight: 500;
     font-size: 14px;
     line-height: calc(16 / 14);
@@ -19,7 +19,7 @@
     color: var(--primary-text-color);
   }
   
-  .nav__link {
+  .header__link {
     position: relative;
     font-weight: 500;
     font-size: 14px;

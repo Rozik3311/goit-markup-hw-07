@@ -13,7 +13,7 @@
 @import './components/header-nav';
 @import './components/header';
 @import './components/header__container';
-@import './components/header__logo';
+@import './components/header__logo-text';
 @import './components/header__mail';
 @import './components/header__tel';
 @import './components/offering';
@@ -28,9 +28,10 @@
 @import './components/hero__logo';
 @import './components/work';
 @import './components/_work__title';
-@import './components/team__cardset';
+@import './components/work__cardset';
 @import './components/work__img-box';
 @import './components/work__img-text';
+@import './components/work__item' ;
 @import './components/team';
 @import './components/team__block';
 @import './components/team__title';
@@ -48,8 +49,8 @@
 @import './components/clients__icon';
 @import './components/footer';
 @import './components/footer__container';
-@import './components/gen__logo';
 @import './components/footer__logo';
+@import './components/footer__logo-text';
 @import './components/footer__adress';
 @import './components/footer__item';
 @import './components/footer__mail';
@@ -80,14 +81,15 @@
 @import './components/close__button';
 @import './components/close__logo';
 @import './components/main__product';
-@import './components/nav__btn';
+@import './components/main__nav-btn';
 @import './components/btn';
-@import './components/product__wrapper';
-@import './components/product__title';
+@import './components/main__wrapper';
+@import './components/main__product-title';
 @import './components/product__categories';
 @import './components/product__list';
-@import './components/card__thumb';
-@import './components/overlay__text';
+@import './components/main__thumb';
 @import './components/overlay';
-@import './components/cards';
+@import './components/overlay__text';
+@import './components/main__cards';
 @import './components/current';
+
