@@ -17,3 +17,16 @@
     user-select: none;
     transition: transform var(--anim-fast);
   }
+
+  .overlay__text {
+    position: absolute;
+  
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: calc(28 / 18);
+  
+    letter-spacing: 0.03em;
+  
+    color: var(--white-color);
+  }
