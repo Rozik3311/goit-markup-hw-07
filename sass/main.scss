@@ -9,39 +9,18 @@
 
 //components styles
 @import './components/container';
-@import './components/offering__btn';
-@import './components/header-nav';
+
 @import './components/header';
 @import './components/header__container';
-@import './components/header__logo-text';
 @import './components/header__mail';
 @import './components/header__tel';
 @import './components/offering';
-@import './components/offering__text';
 @import './components/hero';
-@import './components/hero__list';
-@import './components/hero__item';
-@import './components/hero__title';
-@import './components/hero__text';
 @import './components/icon__set';
-@import './components/hero__icon';
-@import './components/hero__logo';
 @import './components/work';
-@import './components/_work__title';
-@import './components/work__cardset';
-@import './components/work__img-box';
-@import './components/work__img-text';
-@import './components/work__item' ;
 @import './components/team';
-@import './components/team__block';
-@import './components/team__title';
 @import './components/team__wrapper';
-@import './components/team__worker';
-@import './components/team__list';
-@import './components/team__function';
-@import './components/socials__list';
-@import './components/socials__link';
-@import './components/socials__icon';
+@import './components/team__socials-list';
 @import './components/clients';
 @import './components/clients__title';
 @import './components/clients__list';
@@ -57,8 +36,6 @@
 @import './components/footer__tel';
 @import './components/footer__social';
 @import './components/social__title';
-@import './components/social__icon';
-@import './components/socials__icon';
 @import './components/socials__logo';
 @import './components/subscribe';
 @import './components/subscribe__title';
@@ -85,8 +62,8 @@
 @import './components/btn';
 @import './components/main__wrapper';
 @import './components/main__product-title';
-@import './components/product__categories';
-@import './components/product__list';
+@import './components/main__product-categories';
+@import './components/main__list';
 @import './components/main__thumb';
 @import './components/overlay';
 @import './components/overlay__text';
